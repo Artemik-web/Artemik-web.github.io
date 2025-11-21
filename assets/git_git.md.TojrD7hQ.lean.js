@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a}from"./chunks/framework.CSl2Ifbm.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"git/git.md","filePath":"git/git.md","lastUpdated":0}'),r={name:"git/git.md"};function i(o,s,c,n,d,p){return a(),e("div")}const f=t(r,[["render",i]]);export{m as __pageData,f as default};
